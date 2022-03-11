@@ -10,7 +10,7 @@ Admin of the System:
 2.	Update product description
 3.	View product description
 4.	Delete product description
-5.      Add product-category description
+5.  Add product-category description
 6.	Update product-categoru description
 7.	View product-category description
 8.	Delete product-category description
